@@ -1,1 +1,1 @@
-Repositório de testes com WebGL.
+Repositório de testes e exemplos simples com WebGL.
